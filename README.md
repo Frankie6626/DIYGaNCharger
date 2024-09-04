@@ -1,1 +1,1 @@
-# SwitchingRegulatorclone
+# DIYGaNCharger
